@@ -1,21 +1,29 @@
-# Hi there I am Larry!👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLK920&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### Get In Touch!!
-<!--
-**LK920/LK920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](여러분들 블로그 주소) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<여러분들 linkedin 주소>)](<여러분들 linkedin 주소>)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=Laeku's%20Repo%20Story&animation=fadeIn&fontColor=000000&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me? </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 프로필 업데이트중.... </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <br/></div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:hopeone1214@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hopeone1214@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLK920%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+       </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=LK920&bg_color=180,000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK920&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
