@@ -2,8 +2,12 @@
     <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&text=Laeku's%20Repo%20Story&animation=fadeIn&fontColor=000000&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me? </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 프로필 업데이트중.... </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Certification </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
+        <a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
+</a>
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
